@@ -1,0 +1,19 @@
+{
+  "name": "electron-window-position-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mike-Wood/electron-window-position-bug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mike-Wood/electron-window-position-bug/issues"
+  },
+  "homepage": "https://github.com/Mike-Wood/electron-window-position-bug#readme"
+}
